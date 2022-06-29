@@ -23,7 +23,7 @@ This responsive weather web application was developed by using backend with PHP 
 # How to use the application
 1. Landing Page
     - [ ] Here's the landing page. You can type the city and press enter key on your keyboard to search the city.
-    <p align="center"><img src="https://github.com/chiater0311/Weather-App/blob/main/readme-images/LandingPage.PNG" width="900"></p>
+    <p align="center"><img src="https://github.com/chiater0311/Weather-App/blob/main/readme-images/LandingPage.PNG" width="300"></p>
 
 
 2. Search Result

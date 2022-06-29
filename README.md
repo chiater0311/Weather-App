@@ -23,7 +23,7 @@ This responsive weather web application was developed by using backend with PHP 
 # How to use the application
 1. Landing Page
     - [ ] Here's the landing page. You can type the city and press enter key on your keyboard to search the city.
-    <p align="center"><img src="https://github.com/chiater0311/Weather-App/blob/main/readme-images/LandingPage.PNG" width="300"></p>
+    ![](readme-images/LandingPage.PNG)
 
 
 2. Search Result
@@ -40,20 +40,20 @@ This responsive weather web application was developed by using backend with PHP 
     - [ ] If add to list button was clicked, that city will be added in your list and the it's forecast information including icon, minimum temperature and maximum temperature will be shown.
     - [ ] You can have maximum three cities in your list. The container will use maximum width possible and if the city was added or removed, the remaining container will be resized automatically.
     - [ ] You can't add same city in your list.
-![](readme-images/Addtolist.PNG)
+    ![](readme-images/Addtolist.PNG)
 
 
 4. Error message if trying to add more than 3 cities
-![](readme-images/MaxCitiesErrMsg.PNG)
+    ![](readme-images/MaxCitiesErrMsg.PNG)
 
 
 5. Error message if existing city is added
-![](readme-images/SameCityErrMsg.PNG)
+    ![](readme-images/SameCityErrMsg.PNG)
 
 
 6. Hover on the container and click cross button to delete the city from your list.
     - [ ] You can hover on the container of the city in your list, there's some transition to scale up the container and a cross icon on the top right side will be shown.
     - [ ] The city can be removed from the list by clicking the cross icon. 
-![](readme-images/Hover.PNG)
+    ![](readme-images/Hover.PNG)
 
 ## Thank you for testing

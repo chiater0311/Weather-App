@@ -56,4 +56,4 @@ This responsive weather web application was developed by using backend with PHP 
     - [ ] The city can be removed from the list by clicking the cross icon. 
 ![](readme-images/Hover.PNG)
 
-## End
+## Thank you for testing

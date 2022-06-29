@@ -23,15 +23,15 @@ This responsive weather web application was developed by using backend with PHP 
 # How to use the application
 1. Landing Page
     - [ ] Here's the landing page. You can type the city and press enter key on your keyboard to search the city.
-![](readme-images/LandingPage.PNG)
+    <p align="center"><img src="https://github.com/chiater0311/Weather-App/blob/main/readme-images/LandingPage.PNG" width="900"></p>
 
 
 2. Search Result
     - [ ] After you press enter, there is a loader indicating the system is finding the city for you.
     - [ ] If you entered an invalid city, a message will be prompted "City not found".
     - [ ] If you entered a valid city, the result will be shown with the add to list and cancel buttons.
-![](readme-images/ResultNotFound.PNG)
-![](readme-images/ResultFound.PNG)
+    ![](readme-images/ResultNotFound.PNG)
+    ![](readme-images/ResultFound.PNG)
 
 
 3. Add to list / Cancel
